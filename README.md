@@ -3,7 +3,6 @@ scraping online czech shop with bs4 and requests
 
 # how to run ?
 run api.py and then send GET request to your localhost and port example in cmd : curl http://localhost:5000/czc/palit-geforce-gtx-1050ti-stormx-4gb-gddr5/310346/usd
-                                                                                 curl http://localhost:5000/<shop>/name/id/currency
 
 
 
