@@ -14,3 +14,7 @@ https://www.twitch.tv/jonasek369
 https://www.youtube.com/channel/UCYIB1iK0mExBWaCPYDfftEQ
 
 jonasek369#4537
+
+
+# I found bug what should i do ? 
+if you found bug and want to report it please add me on discord and message me about it jonasek369#4537
